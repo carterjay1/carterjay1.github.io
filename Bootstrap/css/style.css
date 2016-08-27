@@ -27,12 +27,12 @@ html {
     background: #fff;
 }
 #Pear {
-    height=600px
-    width=300px
+    height=600px;
+    width=300px;
 }
 #Apples {
-    height=600px
-    width=300px
+    height=600px;
+    width=300px;
 }
 
 .contact-section{
@@ -49,12 +49,15 @@ html {
     background: #fff;
 }
 
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      height:400px;
+      width: auto;
+      margin: auto;
+  }
+
 .navbar {
     background-color: #ccc;
 }
 
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
+

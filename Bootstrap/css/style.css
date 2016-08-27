@@ -15,7 +15,11 @@ html {
     text-align: center;
     background: url('');
 }
-
+#modal-pic img {
+    height=200px
+    width=200px
+    
+}
 .about-section{
     height: 100%;
     padding-top: 150px;
@@ -46,3 +50,4 @@ html {
       width: 70%;
       margin: auto;
   }
+ 

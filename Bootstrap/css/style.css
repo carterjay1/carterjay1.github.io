@@ -16,8 +16,8 @@ html {
     background: url('');
 }
 #modal-pic {
-    height=200px;
-    width=200px;
+    height:200px;
+    width:200px;
 }
 
 .about-section{
@@ -27,12 +27,12 @@ html {
     background: #fff;
 }
 #Pear {
-    height=600px;
-    width=300px;
+    height:404px;
+    width:250px;
 }
 #Apples {
-    height=600px;
-    width=300px;
+    height:404px;
+    width:250px;
 }
 
 .contact-section{

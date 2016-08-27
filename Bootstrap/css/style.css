@@ -16,8 +16,9 @@ html {
     background: url('');
 }
 #modal-pic {
-    height:200px;
-    width:200px;
+    height:600px;
+    width:600px;
+    border-radius:100px;
 }
 
 .about-section{
@@ -27,11 +28,11 @@ html {
     background: #fff;
 }
 #Pear {
-    height:404px;
+    height:500px;
     width:250px;
 }
 #Apples {
-    height:404px;
+    height:500px;
     width:250px;
 }
 

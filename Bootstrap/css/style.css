@@ -14,6 +14,7 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url('');
+    background-size:cover;
 }
 #modal-pic {
     height:550px;
@@ -41,7 +42,13 @@ html {
     text-align: ;
     background: #fff;
 }
-
+.img-circle {
+    border-radius: 50%;
+}
+#contact {
+    height:250px;
+    width:250px;
+}
 .services-section{
     height: 100%;
     padding-top: 150px;

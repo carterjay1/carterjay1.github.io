@@ -14,8 +14,8 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url('');
-}
-#modal-pic {
+    
+#modal-pic
     height=200px;
     width=200px;
 }
@@ -25,6 +25,12 @@ html {
     padding-top: 150px;
     text-align: center;
     background: #fff;
+#Pear
+    height=600px
+    width=300px
+#Apples
+    height=600px
+    width=300px
 }
 
 .contact-section{
